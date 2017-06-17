@@ -1,2 +1,2 @@
 # SZACHY_ZADANIA
-Progranmowanie obiektowe zadania
+Programowanie obiektowe zadania
